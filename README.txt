@@ -12,3 +12,6 @@ $ cd Repo_Name
 To ignore files add them to '.gitignore'
 ...
 log/*.log
+
+
+to just add parts to the indewe can use 'git add -p' ('p' as in "patch")
