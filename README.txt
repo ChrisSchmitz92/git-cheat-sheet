@@ -14,4 +14,4 @@ To ignore files add them to '.gitignore'
 log/*.log
 
 
-to just add parts to the indewe can use 'git add -p' ('p' as in "patch")
+to just add parts to the index we can use 'git add -p' ('p' as in "patch")
